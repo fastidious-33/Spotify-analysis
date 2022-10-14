@@ -1,0 +1,2104 @@
+{
+  "playlists": [
+    {
+      "name": "Mixtape",
+      "lastModifiedDate": "2021-06-02",
+      "items": [
+        {
+          "track": {
+            "trackName": "Can't Help Falling in Love",
+            "artistName": "Elvis Presley",
+            "albumName": "Blue Hawaii",
+            "trackUri": "spotify:track:44AyOl4qVkzS48vBsbNXaC"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Johnny B. Goode",
+            "artistName": "Chuck Berry",
+            "albumName": "Berry Is On Top",
+            "trackUri": "spotify:track:2QfiRTz5Yc8DdShCxG1tB2"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Ain't No Rest for the Wicked",
+            "artistName": "Cage The Elephant",
+            "albumName": "Cage The Elephant (Expanded Edition)",
+            "trackUri": "spotify:track:3Pzh926pXggbMe2ZpXyMV7"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Ain't No Mountain High Enough",
+            "artistName": "Marvin Gaye",
+            "albumName": "United",
+            "trackUri": "spotify:track:7tqhbajSfrz2F7E1Z75ASX"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "A Little Less Conversation",
+            "artistName": "Elvis Presley",
+            "albumName": "The Essential Elvis Presley",
+            "trackUri": "spotify:track:47y8hRlWLEJ4VafE6LMjEZ"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Cherry Bomb",
+            "artistName": "The Runaways",
+            "albumName": "The Runaways",
+            "trackUri": "spotify:track:7cdnq45E9aP2XDStHg5vd7"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Bohemian Rhapsody - Remastered 2011",
+            "artistName": "Queen",
+            "albumName": "A Night At The Opera",
+            "trackUri": "spotify:track:4u7EnebtmKWzUH433cf5Qv"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "We Are The Champions - Remastered 2011",
+            "artistName": "Queen",
+            "albumName": "News Of The World",
+            "trackUri": "spotify:track:1lCRw5FEZ1gPDNPzy1K4zW"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Another Brick in the Wall, Pt. 2",
+            "artistName": "Pink Floyd",
+            "albumName": "The Wall",
+            "trackUri": "spotify:track:4gMgiXfqyzZLMhsksGmbQV"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "We Will Rock You - Remastered",
+            "artistName": "Queen",
+            "albumName": "News Of The World",
+            "trackUri": "spotify:track:4pbJqGIASGPr0ZpGpnWkDn"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Stairway to Heaven - Remaster",
+            "artistName": "Led Zeppelin",
+            "albumName": "Led Zeppelin IV",
+            "trackUri": "spotify:track:5CQ30WqJwcep0pYcV4AMNc"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Money",
+            "artistName": "Pink Floyd",
+            "albumName": "The Dark Side of the Moon",
+            "trackUri": "spotify:track:0vFOzaXqZHahrZp6enQwQb"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Hotel California - 2013 Remaster",
+            "artistName": "Eagles",
+            "albumName": "Hotel California",
+            "trackUri": "spotify:track:40riOy7x9W7GXjyGp4pjAv"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Sober",
+            "artistName": "Childish Gambino",
+            "albumName": "Kauai",
+            "trackUri": "spotify:track:5NhlpQ6BOIz3S5welptk1W"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Yellow Submarine - Remastered 2015",
+            "artistName": "The Beatles",
+            "albumName": "1",
+            "trackUri": "spotify:track:7zRmGvtSy36Jr19U5OInJT"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "I Gotta Feeling",
+            "artistName": "Black Eyed Peas",
+            "albumName": "KIDS PARTY 2020",
+            "trackUri": "spotify:track:1KIFwbgJ9I361OqoOoDtJr"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Another One Bites The Dust - Remastered 2011",
+            "artistName": "Queen",
+            "albumName": "The Game",
+            "trackUri": "spotify:track:5vdp5UmvTsnMEMESIF2Ym7"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "(I Can't Get No) Satisfaction - Mono Version",
+            "artistName": "The Rolling Stones",
+            "albumName": "Out Of Our Heads",
+            "trackUri": "spotify:track:2PzU4IB8Dr6mxV3lHuaG34"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Whole Lotta Love - 1990 Remaster",
+            "artistName": "Led Zeppelin",
+            "albumName": "Led Zeppelin II",
+            "trackUri": "spotify:track:0hCB0YR03f6AmQaHbwWDe8"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Hey Jude - Remastered 2015",
+            "artistName": "The Beatles",
+            "albumName": "1",
+            "trackUri": "spotify:track:0aym2LBJBk9DAYuHHutrIl"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Californication",
+            "artistName": "Red Hot Chili Peppers",
+            "albumName": "Californication",
+            "trackUri": "spotify:track:48UPSzbZjgc449aqz8bxox"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Jailhouse Rock",
+            "artistName": "Elvis Presley",
+            "albumName": "Elvis' Golden Records",
+            "trackUri": "spotify:track:4gphxUgq0JSFv2BCLhNDiE"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Come Together - Remastered 2009",
+            "artistName": "The Beatles",
+            "albumName": "Abbey Road",
+            "trackUri": "spotify:track:2EqlS6tkEnglzr7tkKAAYD"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Knockin' On Heaven's Door",
+            "artistName": "Guns N' Roses",
+            "albumName": "Use Your Illusion II",
+            "trackUri": "spotify:track:4JiEyzf0Md7KEFFGWDDdCr"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "It's My Life",
+            "artistName": "Bon Jovi",
+            "albumName": "Crush",
+            "trackUri": "spotify:track:0v1XpBHnsbkCn7iJ9Ucr1l"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Hound Dog",
+            "artistName": "Elvis Presley",
+            "albumName": "Elvis' Golden Records",
+            "trackUri": "spotify:track:64Ny7djQ6rNJspquof2KoX"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Stayin' Alive - From \"Saturday Night Fever\" Soundtrack",
+            "artistName": "Bee Gees",
+            "albumName": "Greatest",
+            "trackUri": "spotify:track:3mRM4NM8iO7UBqrSigCQFH"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Rocket Man (I Think It's Going To Be A Long, Long Time)",
+            "artistName": "Elton John",
+            "albumName": "Honky Chateau",
+            "trackUri": "spotify:track:3gdewACMIVMEWVbyb8O9sY"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Cold Cold Cold",
+            "artistName": "Cage The Elephant",
+            "albumName": "Tell Me I'm Pretty",
+            "trackUri": "spotify:track:1Q3t9fWvHUXKsMmpD2XpUu"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Yesterday - Remastered 2009",
+            "artistName": "The Beatles",
+            "albumName": "Help!",
+            "trackUri": "spotify:track:3BQHpFgAp4l80e1XslIjNI"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Immigrant Song - Remaster",
+            "artistName": "Led Zeppelin",
+            "albumName": "Led Zeppelin III",
+            "trackUri": "spotify:track:78lgmZwycJ3nzsdgmPPGNx"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "You Never Can Tell",
+            "artistName": "Chuck Berry",
+            "albumName": "St. Louis To Liverpool",
+            "trackUri": "spotify:track:6FT83pFXKhDlXDsNJFAHWz"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Stranger in Our Bed",
+            "artistName": "Tanya Nambiar",
+            "albumName": "Stranger in Our Bed",
+            "trackUri": "spotify:track:1Hj3x57ValAFOYVjWPlLVJ"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Don't Stop Me Now - Remastered 2011",
+            "artistName": "Queen",
+            "albumName": "Jazz",
+            "trackUri": "spotify:track:5T8EDUDqKcs6OSOwEsfqG7"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Crazy Little Thing Called Love - Remastered 2011",
+            "artistName": "Queen",
+            "albumName": "The Game",
+            "trackUri": "spotify:track:6xdLJrVj4vIXwhuG8TMopk"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Mr. Blue Sky",
+            "artistName": "Electric Light Orchestra",
+            "albumName": "Out of the Blue",
+            "trackUri": "spotify:track:2RlgNHKcydI9sayD2Df2xp"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Blue Monday",
+            "artistName": "New Order",
+            "albumName": "50 Retro Songs To Hear While You're Still Alive",
+            "trackUri": "spotify:track:46p0aGy1uO2ZPRdyqW2Dv5"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "A Hard Day's Night - Remastered 2009",
+            "artistName": "The Beatles",
+            "albumName": "A Hard Day's Night",
+            "trackUri": "spotify:track:5J2CHimS7dWYMImCHkEFaJ"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Black Dog - Remaster",
+            "artistName": "Led Zeppelin",
+            "albumName": "Led Zeppelin IV",
+            "trackUri": "spotify:track:3qT4bUD1MaWpGrTwcvguhb"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Rock and Roll - Remaster",
+            "artistName": "Led Zeppelin",
+            "albumName": "Led Zeppelin IV",
+            "trackUri": "spotify:track:4PRGxHpCpF2yoOHYKQIEwD"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Rasputin",
+            "artistName": "Boney M.",
+            "albumName": "Daddy Cool",
+            "trackUri": "spotify:track:5lWSa1rmuSL6OBPOnkAqoa"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Daddy Cool",
+            "artistName": "Boney M.",
+            "albumName": "Take The Heat Off Me",
+            "trackUri": "spotify:track:3WMbD1OyfKuwWDWMNbPQ4g"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Sunflower - Spider-Man: Into the Spider-Verse",
+            "artistName": "Post Malone",
+            "albumName": "Spider-Man: Into the Spider-Verse",
+            "trackUri": "spotify:track:3KkXRkHbMCARz0aVfEt68P"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Better Now",
+            "artistName": "Post Malone",
+            "albumName": "beerbongs & bentleys",
+            "trackUri": "spotify:track:7dt6x5M1jzdTEt8oCbisTK"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Psycho (feat. Ty Dolla $ign)",
+            "artistName": "Post Malone",
+            "albumName": "beerbongs & bentleys",
+            "trackUri": "spotify:track:3swc6WTsr7rl9DqQKQA55C"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "On Top Of The World",
+            "artistName": "Imagine Dragons",
+            "albumName": "Night Visions",
+            "trackUri": "spotify:track:213x4gsFDm04hSqIUkg88w"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "24K Magic",
+            "artistName": "Bruno Mars",
+            "albumName": "24K Magic",
+            "trackUri": "spotify:track:6b8Be6ljOzmkOmFslEb23P"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Rasputin - Single Version",
+            "artistName": "Boney M.",
+            "albumName": "Fantastic Boney M.",
+            "trackUri": "spotify:track:67hbP9PFQZrb4XZc3TzB0s"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "eat u alive",
+            "artistName": "Marian Hill",
+            "albumName": "was it not",
+            "trackUri": "spotify:track:7h4JAMbOqLg1GV41XLhZk1"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Redbone",
+            "artistName": "Childish Gambino",
+            "albumName": "\"Awaken, My Love!\"",
+            "trackUri": "spotify:track:0wXuerDYiBnERgIpbb3JBR"
+          },
+          "episode": null,
+          "localTrack": null
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "Rap out",
+      "lastModifiedDate": "2021-06-02",
+      "items": [
+        {
+          "track": {
+            "trackName": "Maya",
+            "artistName": "Prabh Deep",
+            "albumName": "Maya",
+            "trackUri": "spotify:track:5eR1O5GNIN7kTtfxgg2NFh"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Amar",
+            "artistName": "Prabh Deep",
+            "albumName": "Amar",
+            "trackUri": "spotify:track:57onkj1hvlwkekdwo6LlCf"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Kala",
+            "artistName": "Prabh Deep",
+            "albumName": "Kala",
+            "trackUri": "spotify:track:4rTVcvaTwgYVb1bKxePYzF"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Seedhe Maut Anthem",
+            "artistName": "Seedhe Maut",
+            "albumName": "Seedhe Maut Anthem",
+            "trackUri": "spotify:track:1NCFfVKuurzwgQTmExIAoN"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Dehshat",
+            "artistName": "Seedhe Maut",
+            "albumName": "Bayaan",
+            "trackUri": "spotify:track:6MagUZrZrgQzxcdodhl32b"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Khat",
+            "artistName": "Prabh Deep",
+            "albumName": "Khat",
+            "trackUri": "spotify:track:5oHT5zCrthfT8kFB5dIC6n"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Little Kid, Big Dreams",
+            "artistName": "Ahmer",
+            "albumName": "Little Kid, Big Dreams",
+            "trackUri": "spotify:track:3QcE5xo2YjMvDDGCiivkNt"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Class-Sikh Maut, Vol. II",
+            "artistName": "Prabh Deep",
+            "albumName": "Class-Sikh Maut, Vol. II",
+            "trackUri": "spotify:track:5BqvGsg4foTngD67rNlay1"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "ELAAN",
+            "artistName": "Ahmer",
+            "albumName": "Little Kid, Big Dreams",
+            "trackUri": "spotify:track:3TJyN9VlIAjv56H0ku6O5N"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "FLY",
+            "artistName": "Prabh Deep",
+            "albumName": "FLY",
+            "trackUri": "spotify:track:3rPuOzahOBFd5ZVrm5R6nu"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Tofa",
+            "artistName": "Prabh Deep",
+            "albumName": "Tofa",
+            "trackUri": "spotify:track:4kNYZVLJKvIdw92iNLQ59X"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Pankh",
+            "artistName": "Seedhe Maut",
+            "albumName": "Bayaan",
+            "trackUri": "spotify:track:79sPwbig6EUhjCVZ0riWJQ"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Pakki Gal",
+            "artistName": "Pam Sengh",
+            "albumName": "Pakki Gal",
+            "trackUri": "spotify:track:02U1wo5IoGEPAkYidjUAv8"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Hira",
+            "artistName": "Prabh Deep",
+            "albumName": "Hira",
+            "trackUri": "spotify:track:2Q5902VVPT2dePViBXULjI"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "King",
+            "artistName": "Prabh Deep",
+            "albumName": "King",
+            "trackUri": "spotify:track:069rvTfcWOE75EUJxInTln"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "'G' Maane",
+            "artistName": "Prabh Deep",
+            "albumName": "'G' Maane",
+            "trackUri": "spotify:track:2zzddN4pZPnJpUJJx9ERWY"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Classsikh",
+            "artistName": "Prabh Deep",
+            "albumName": "Class-Sikh",
+            "trackUri": "spotify:track:3cQM0yDNZJv6YmGelLmmqT"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Kasheer",
+            "artistName": "Ahmer",
+            "albumName": "Little Kid, Big Dreams",
+            "trackUri": "spotify:track:5WHeVdH5BZILMMdzz6KKE6"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Chalta Reh",
+            "artistName": "Seedhe Maut",
+            "albumName": "Bayaan",
+            "trackUri": "spotify:track:3LEcFXJX5m31eBFJPX0QXy"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Gehraiyaan",
+            "artistName": "Sez on the Beat",
+            "albumName": "Bayaan",
+            "trackUri": "spotify:track:5nBpFCANGdUZuyHDm6EbgH"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Shaktimaan",
+            "artistName": "Seedhe Maut",
+            "albumName": "Bayaan",
+            "trackUri": "spotify:track:4yvrKVY7V0a3pLbNUFbaN4"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Kaam Bhaari",
+            "artistName": "Kaam Bhaari",
+            "albumName": "Gully Boy",
+            "trackUri": "spotify:track:2haaEnrn5HwCT46ZptCITK"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "The Warli Revolt",
+            "artistName": "Swadesi",
+            "albumName": "The Warli Revolt",
+            "trackUri": "spotify:track:556QgSgtBMDIPRDkdRnvxZ"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Aao Na",
+            "artistName": "Vishal Dadlani",
+            "albumName": "Haider",
+            "trackUri": "spotify:track:1d11xbMYeK2ldGOl5QiV2e"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Bismil",
+            "artistName": "Sukhwinder Singh",
+            "albumName": "Haider",
+            "trackUri": "spotify:track:7EadaXiYHu40vxlHyE1ib7"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Thandi Hawa",
+            "artistName": "Ritviz",
+            "albumName": "Thandi Hawa",
+            "trackUri": "spotify:track:7EPMILezRmD7gHhgx11e7k"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Chaos",
+            "artistName": "Skrat",
+            "albumName": "Bison",
+            "trackUri": "spotify:track:2T2J6oIqN37LCID8BAZCjg"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Stomp",
+            "artistName": "Skrat",
+            "albumName": "The Queen",
+            "trackUri": "spotify:track:0SwfsvTrsLeNXYjge68WGk"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Zor",
+            "artistName": "Ahmer",
+            "albumName": "Zor",
+            "trackUri": "spotify:track:7wvjGCnfCyoVzB5elLt3It"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Homicide",
+            "artistName": "Logic",
+            "albumName": "Homicide",
+            "trackUri": "spotify:track:0Lw6aQcBFWTQ9m4MSwwwes"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Chalo Chalein",
+            "artistName": "Ritviz",
+            "albumName": "Chalo Chalein",
+            "trackUri": "spotify:track:0NS3ca87AFGTQ2jHWeaLJ1"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Udd Gaye - Bacardi House Party Sessions",
+            "artistName": "Ritviz",
+            "albumName": "Udd Gaye",
+            "trackUri": "spotify:track:6wZJsut8fjiWiMPaccRAOX"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Yakeen",
+            "artistName": "Kidshot",
+            "albumName": "Yakeen",
+            "trackUri": "spotify:track:3ljf40MZgwbvFkVDCuhJQI"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Without Me",
+            "artistName": "Eminem",
+            "albumName": "The Eminem Show",
+            "trackUri": "spotify:track:7lQ8MOhq6IN2w8EYcFNSUk"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Going Down",
+            "artistName": "Nemophilis",
+            "albumName": "Going Down",
+            "trackUri": "spotify:track:2jXql9bQGlid5OZNBEuQeB"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Tabah",
+            "artistName": "Snorting Jatts",
+            "albumName": "Tabah",
+            "trackUri": "spotify:track:0e4sfYyPQOva5bVSXfhyRA"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Banda Ban Jah",
+            "artistName": "Snorting Jatts",
+            "albumName": "Banda Ban Jah",
+            "trackUri": "spotify:track:7iIde6r1AboYOIuiiOvoXY"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Roshni",
+            "artistName": "Sickflip",
+            "albumName": "Roshni",
+            "trackUri": "spotify:track:1XCQhYPVUB51Aiau9EoPo6"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Do Guna",
+            "artistName": "Seedhe Maut",
+            "albumName": "Sound Of Resistance Vol. 1",
+            "trackUri": "spotify:track:7wiSptSVSCIi9TR9GZM2K2"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "The Warli Revolt",
+            "artistName": "Swadesi",
+            "albumName": "The Warli Revolt",
+            "trackUri": "spotify:track:556QgSgtBMDIPRDkdRnvxZ"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Aai Shapath Saheb Me Navtho",
+            "artistName": "Dopeadelicz",
+            "albumName": "Aai Shapath Saheb Me Navtho",
+            "trackUri": "spotify:track:2zPGb3tQpHjYhpiFpA77AR"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "101",
+            "artistName": "Seedhe Maut",
+            "albumName": "Sound Of Resistance Vol. 1",
+            "trackUri": "spotify:track:51ZuokKuGpoSdergEz8qYb"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Jhand",
+            "artistName": "Bandish Projekt",
+            "albumName": "Sound Of Resistance Vol. 1",
+            "trackUri": "spotify:track:5C9StPg2zEZ2Aqnbw4sMHo"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Ye Kya Mazak Hai?",
+            "artistName": "Bella",
+            "albumName": "Ye Kya Mazak Hai?",
+            "trackUri": "spotify:track:7Cn4JetZeD6DWZIiLtMyr8"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Fubu",
+            "artistName": "Tienas",
+            "albumName": "Season Pass",
+            "trackUri": "spotify:track:0wQYubqz9ZZ57hWucX9iDO"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Hello I'm Erica",
+            "artistName": "Laxmi Bomb",
+            "albumName": "Bol Na Ranti",
+            "trackUri": "spotify:track:3Hk7kktiwwOk2c2YxdCWXP"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "No Enema",
+            "artistName": "Foreign Beggars",
+            "albumName": "No Enema",
+            "trackUri": "spotify:track:0WjvPXZXP2DtM8gblYtibV"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "COP CAR",
+            "artistName": "Adi",
+            "albumName": "PIGEONHOLED",
+            "trackUri": "spotify:track:69iY1sZiKcGFdgOpVUR4RF"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Yaaru",
+            "artistName": "SIRI",
+            "albumName": "Yaaru",
+            "trackUri": "spotify:track:18dVP3VpiMJtCJCger4rtW"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Freeverse Feast",
+            "artistName": "KR$NA",
+            "albumName": "Freeverse Feast",
+            "trackUri": "spotify:track:2cfmVJsQJGjXoqnA4kSMqp"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Inqalab",
+            "artistName": "Ahmer",
+            "albumName": "Inqalab",
+            "trackUri": "spotify:track:3iIjsp5en1YsUoL1qtGW64"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Scalp Dem",
+            "artistName": "Delhi Sultanate",
+            "albumName": "Scalp Dem",
+            "trackUri": "spotify:track:7cDzV11PG4l3LQXY0aD38N"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Bonfire",
+            "artistName": "Childish Gambino",
+            "albumName": "Camp",
+            "trackUri": "spotify:track:799f6Ih1Pu4AUApMyXhxUc"
+          },
+          "episode": null,
+          "localTrack": null
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "Relaxation",
+      "lastModifiedDate": "2021-04-20",
+      "items": [
+        {
+          "track": {
+            "trackName": "Don't Even / Know Your Name",
+            "artistName": "SaltWater",
+            "albumName": "Don't Even / Know Your Name",
+            "trackUri": "spotify:track:0hYW1YSwgIWB2L404xgtWH"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Caves",
+            "artistName": "SaltWater",
+            "albumName": "Caves",
+            "trackUri": "spotify:track:3q06xHROoW8BfZ9sQLZZsI"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Stand Still",
+            "artistName": "SaltWater",
+            "albumName": "Stand Still",
+            "trackUri": "spotify:track:54DeKokSFsHGUtvq3gvpql"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Heavy Headed",
+            "artistName": "OAFF",
+            "albumName": "Heavy Headed",
+            "trackUri": "spotify:track:1uuwYZAPz5grjtUEP2PAec"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "For a While",
+            "artistName": "OAFF",
+            "albumName": "For a While - Single",
+            "trackUri": "spotify:track:3rnvpHtlBLa4dSPvzNLiQN"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Frontline",
+            "artistName": "OAFF",
+            "albumName": "Frontline - Single",
+            "trackUri": "spotify:track:1HuZxrpsW23bySVwsYwUpH"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Lonely Heart",
+            "artistName": "OAFF",
+            "albumName": "Lonely Heart",
+            "trackUri": "spotify:track:3OstcKMtyogKNq560fIPdl"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Jhelum",
+            "artistName": "Vishal Bhardwaj",
+            "albumName": "Haider",
+            "trackUri": "spotify:track:5HFHsd21bunFI33FFDh569"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "With All",
+            "artistName": "Nicholson",
+            "albumName": "Cold Water",
+            "trackUri": "spotify:track:4bnftcfJLN3Ym4snn76eGX"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Cold Water II",
+            "artistName": "Nicholson",
+            "albumName": "Cold Water",
+            "trackUri": "spotify:track:7b1sftsyP5e6LLsQolc3UK"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Lost the Kalimba",
+            "artistName": "Kumail",
+            "albumName": "Links",
+            "trackUri": "spotify:track:0tzSbvPi93HFINSHLNgO9J"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "All U Know",
+            "artistName": "Kumail",
+            "albumName": "Yasmin",
+            "trackUri": "spotify:track:7BtO3EuprFOlaZEAp4Mkb9"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Burn Every Bridge",
+            "artistName": "Sandunes",
+            "albumName": "Spare Some Time",
+            "trackUri": "spotify:track:2sZu7Y8fpvBQjwaTuiDZny"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Fifty Percent",
+            "artistName": "Sandunes",
+            "albumName": "Spare Some Time",
+            "trackUri": "spotify:track:4iQAc4EZblNgdtKsT3Lhj8"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Take Me Home",
+            "artistName": "Sulk Station",
+            "albumName": "Till You Appear",
+            "trackUri": "spotify:track:3Tw5vKBnOvto2C7NDYiswd"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Piya II",
+            "artistName": "Sulk Station",
+            "albumName": "Till You Appear",
+            "trackUri": "spotify:track:3oCtoqNtahSf7Siss1ZTzg"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Confession",
+            "artistName": "Sulk Station",
+            "albumName": "Till You Appear",
+            "trackUri": "spotify:track:5ljdqjUkOowFCknIVLUlBM"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Wait (feat. Kamal)",
+            "artistName": "Sulk Station",
+            "albumName": "Till You Appear",
+            "trackUri": "spotify:track:4EZJF32RCujds7mrWusu10"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Love It Less",
+            "artistName": "Sandunes",
+            "albumName": "Spare Some Time",
+            "trackUri": "spotify:track:1bMcdCNVOCxpjxp09p06bt"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Simple Thing",
+            "artistName": "Sandunes",
+            "albumName": "Spare Some Time",
+            "trackUri": "spotify:track:70uQ8RpKJZRUR7CCi9dflD"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "No Time To Die",
+            "artistName": "Billie Eilish",
+            "albumName": "No Time To Die",
+            "trackUri": "spotify:track:73SpzrcaHk0RQPFP73vqVR"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Where's My Love",
+            "artistName": "SYML",
+            "albumName": "SYML",
+            "trackUri": "spotify:track:2NeM9rfWo70KQej9GxeaoL"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Mr. Sandman",
+            "artistName": "SYML",
+            "albumName": "Mr. Sandman",
+            "trackUri": "spotify:track:1ibQiWl2i50MGt3SpRuE0D"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Fear of the Water",
+            "artistName": "SYML",
+            "albumName": "Hurt for Me",
+            "trackUri": "spotify:track:3xn7cwof2Srt3CRjvLfrXa"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Flags",
+            "artistName": "SYML",
+            "albumName": "Flags",
+            "trackUri": "spotify:track:2pQrmy6mBciNns6Zk2Mpkc"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Girl",
+            "artistName": "SYML",
+            "albumName": "SYML",
+            "trackUri": "spotify:track:0wcHV7AT77zzyH4ftt11vh"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "The War",
+            "artistName": "SYML",
+            "albumName": "In My Body",
+            "trackUri": "spotify:track:4SQ0ytpTP8v1Rx8FWR22cv"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Hurt for Me",
+            "artistName": "SYML",
+            "albumName": "Hurt for Me",
+            "trackUri": "spotify:track:34ngvjIBKbCL9ECqIhbxaZ"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Better",
+            "artistName": "SYML",
+            "albumName": "Hurt for Me",
+            "trackUri": "spotify:track:0kCC7DZchQVMcteq2VrPyo"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Rising Upside Down",
+            "artistName": "SYML",
+            "albumName": "Hurt for Me",
+            "trackUri": "spotify:track:1yH3OsDqbwbocr5Ny4ZdfM"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Thenale",
+            "artistName": "Pina Colada Blues",
+            "albumName": "Thenale",
+            "trackUri": "spotify:track:6eeenZJEYXsEnvad4GSxdS"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Karwaan",
+            "artistName": "Debarup Paul",
+            "albumName": "Karwaan",
+            "trackUri": "spotify:track:3VBl6YT433sIAgAQXowzZt"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Wasabi",
+            "artistName": "Beluga",
+            "albumName": "Wasabi",
+            "trackUri": "spotify:track:3jXh5PYYlHPLXwZ19ArQOC"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "A Fine Mess",
+            "artistName": "Merak",
+            "albumName": "A Fine Mess",
+            "trackUri": "spotify:track:1ecwsBg2OBVNZTNEYGS9o7"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Tadow",
+            "artistName": "Masego",
+            "albumName": "Lady Lady",
+            "trackUri": "spotify:track:51rPRW8NjxZoWPPjnRGzHw"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "when the party's over",
+            "artistName": "Billie Eilish",
+            "albumName": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
+            "trackUri": "spotify:track:43zdsphuZLzwA9k4DJhU0I"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Tadow - Extended Version",
+            "artistName": "Masego",
+            "albumName": "Lady Lady",
+            "trackUri": "spotify:track:2XSV2XlfV0DQib00TBPCfR"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Lonely Ghosts",
+            "artistName": "O+S",
+            "albumName": "O+S",
+            "trackUri": "spotify:track:0QjiNLuoR90assKoEgrHRa"
+          },
+          "episode": null,
+          "localTrack": null
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "Indie Hindi",
+      "lastModifiedDate": "2021-04-29",
+      "items": [
+        {
+          "track": {
+            "trackName": "Aao Na",
+            "artistName": "Vishal Dadlani",
+            "albumName": "Haider",
+            "trackUri": "spotify:track:1d11xbMYeK2ldGOl5QiV2e"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Bismil",
+            "artistName": "Sukhwinder Singh",
+            "albumName": "Haider",
+            "trackUri": "spotify:track:7EadaXiYHu40vxlHyE1ib7"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "So Jao",
+            "artistName": "Bashir Lone",
+            "albumName": "Haider",
+            "trackUri": "spotify:track:5xlQ5GmvWJ488wRQNo1cTP"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Shaayad",
+            "artistName": "Taba Chake",
+            "albumName": "Bombay Dreams",
+            "trackUri": "spotify:track:669PEr8I3wOswY8BANBpdh"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Aao Chalein",
+            "artistName": "Taba Chake",
+            "albumName": "Bombay Dreams",
+            "trackUri": "spotify:track:4LX8OArGCZ3hS0imHepe83"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Roobaroo",
+            "artistName": "A.R. Rahman",
+            "albumName": "Rang De Basanti (Original Motion Picture Soundtrack)",
+            "trackUri": "spotify:track:3vqJY3pVELLIxqXXyI08yr"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Khaabon Ke Parinday",
+            "artistName": "Alyssa Mendonsa",
+            "albumName": "Zindagi Na Milegi Dobara",
+            "trackUri": "spotify:track:14eotumM24MhIgzidgN3Jx"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Kabira",
+            "artistName": "Pritam",
+            "albumName": "Yeh Jawaani Hai Deewani",
+            "trackUri": "spotify:track:4bD9z9qa4qg9BhryvYWB7c"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Aaftaab",
+            "artistName": "The Local Train",
+            "albumName": "Vaaqif",
+            "trackUri": "spotify:track:4LtSTc3xANVhYeeN69nscM"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Choo Lo",
+            "artistName": "The Local Train",
+            "albumName": "Aalas Ka Pedh",
+            "trackUri": "spotify:track:2qgXrzJsry4KgYoJCpuaul"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Wagairah Wagairah",
+            "artistName": "Ankur Tewari",
+            "albumName": "Side A",
+            "trackUri": "spotify:track:5GcjIiSS47T64N1DFxn1UK"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Dheere Se",
+            "artistName": "The Yellow Diary",
+            "albumName": "Izafa",
+            "trackUri": "spotify:track:3gJxSEQtZ08xpRuAMdynHW"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Ek Aur Bismil",
+            "artistName": "Sukhwinder Singh",
+            "albumName": "Haider",
+            "trackUri": "spotify:track:1VA2odld9HtsoZZkhRgfGF"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Chalein Kahin",
+            "artistName": "Bawari Basanti",
+            "albumName": "Chalein Kahin",
+            "trackUri": "spotify:track:6FuRLbqyMlk0lugKxoH2qB"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Izehaar",
+            "artistName": "Bawari Basanti",
+            "albumName": "Izehaar",
+            "trackUri": "spotify:track:3qtuSOQFOqIaB7AmGcqANH"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Underwater",
+            "artistName": "Bawari Basanti",
+            "albumName": "Underwater",
+            "trackUri": "spotify:track:6AfzWUqh56F1p9sSb9qK2q"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Tere Jeya Hor Disda",
+            "artistName": "The Yellow Diary",
+            "albumName": "Izafa",
+            "trackUri": "spotify:track:7nIyZpAsOH3U0dYBiozXea"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Sooraj Ki Baahon Mein",
+            "artistName": "Dominique Cerejo",
+            "albumName": "Zindagi Na Milegi Dobara",
+            "trackUri": "spotify:track:723xQva0yBF7M6K3nDAG8R"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Dil Chahta Hai",
+            "artistName": "Shankar Mahadevan",
+            "albumName": "Dil Chahta Hai",
+            "trackUri": "spotify:track:2r1CHpKRDdzHGJScn5UqjX"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Afzai",
+            "artistName": "The Yellow Diary",
+            "albumName": "Marz",
+            "trackUri": "spotify:track:5JyEUS5Ewl7VCudWuN78PU"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Beparwah",
+            "artistName": "Parvaaz",
+            "albumName": "Baran",
+            "trackUri": "spotify:track:6DLdRRieCPBwUND4P9xmVn"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Iktara (From \"Wake Up Sid\") - Male Version",
+            "artistName": "Amit Trivedi",
+            "albumName": "Jee Ve Sohaneya",
+            "trackUri": "spotify:track:7rxYVB1uK3pjtBvDEpmNLF"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Meri Dastaan",
+            "artistName": "Taba Chake",
+            "albumName": "Bombay Dreams",
+            "trackUri": "spotify:track:5YgFl0b1J3uMq4bU7HuY0P"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Buniyaad",
+            "artistName": "The Yellow Diary",
+            "albumName": "Izafa",
+            "trackUri": "spotify:track:4PShfgy75bCYTWb6hNEMPe"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Kashmir",
+            "artistName": "The Yellow Diary",
+            "albumName": "Marz",
+            "trackUri": "spotify:track:5i1DUt0pSKJ7znIah4ijw5"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Rab Raakha",
+            "artistName": "The Yellow Diary",
+            "albumName": "Rab Raakha",
+            "trackUri": "spotify:track:6cmPjiylmkjv2wiBCx2AHz"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Bawra",
+            "artistName": "NAALAYAK",
+            "albumName": "Naalayak EP",
+            "trackUri": "spotify:track:1iMeMx9wWD0YHvi0NKVegj"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Marz",
+            "artistName": "The Yellow Diary",
+            "albumName": "Marz",
+            "trackUri": "spotify:track:3PMQvsVUEOMWsEGsSGG0aA"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Shaam Tanha",
+            "artistName": "Agnee",
+            "albumName": "Agnee",
+            "trackUri": "spotify:track:5V6XcXBrCGI6JOeYr4Uyo3"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Dil Mere",
+            "artistName": "The Local Train",
+            "albumName": "Aalas Ka Pedh",
+            "trackUri": "spotify:track:6ZmtxXUXRVjxOhugKkmerC"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Baaghi Re",
+            "artistName": "Mame Khan",
+            "albumName": "Sonchiriya",
+            "trackUri": "spotify:track:2f4IJCGzk7p3MWls6fDMKh"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Deewane",
+            "artistName": "NAALAYAK",
+            "albumName": "Naalayak EP",
+            "trackUri": "spotify:track:6DKA90rAQE55OTZxTpRjRm"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Dhoondti Firaan",
+            "artistName": "The Yellow Diary",
+            "albumName": "Dhoondti Firaan",
+            "trackUri": "spotify:track:4FCQpk4QKSZVs7MniDM5Yv"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Akhiyan Udeek Diyan",
+            "artistName": "Indian Ocean",
+            "albumName": "Akhiyan Udeek Diyan",
+            "trackUri": "spotify:track:5DSgo6sCcN3eM1EYVngt2j"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Baagay",
+            "artistName": "Hari & Sukhmani",
+            "albumName": "Baagay",
+            "trackUri": "spotify:track:6z78Tk9c2a4Kw3XtlI8XT6"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Yariyaan",
+            "artistName": "Hari & Sukhmani",
+            "albumName": "Yariyaan - Single",
+            "trackUri": "spotify:track:5DSFsWFoGi37SivNJAoTi4"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Deewarein",
+            "artistName": "Sulk Station",
+            "albumName": "Dheere / Deewarein",
+            "trackUri": "spotify:track:6oaaB7g7moAnW2oTTMPNqO"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Moving On",
+            "artistName": "Saurav Bhardwaj",
+            "albumName": "Moving On",
+            "trackUri": "spotify:track:6uoKin8TQQtz5CmqVl8bgQ"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Baha Le Mujhko",
+            "artistName": "Shirish Prakash Singh",
+            "albumName": "Baha Le Mujhko",
+            "trackUri": "spotify:track:2L5yiKGAcvikcy3jd5FgeN"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Aasmaan",
+            "artistName": "Shirish Prakash Singh",
+            "albumName": "Vaani | Dhwani | Awaaz",
+            "trackUri": "spotify:track:62vm1qTmHvejzYxFGau1wP"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Baha Le Mujhko",
+            "artistName": "Shirish Prakash Singh",
+            "albumName": "Vaani | Dhwani | Awaaz",
+            "trackUri": "spotify:track:0HlA776E7up9HGyM4Ydjlq"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Parvaah Hai Kyun",
+            "artistName": "Shirish Prakash Singh",
+            "albumName": "Vaani | Dhwani | Awaaz",
+            "trackUri": "spotify:track:6NynHB3uKIBjjiQelhHCFJ"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Aaj Phir",
+            "artistName": "Shirish Prakash Singh",
+            "albumName": "Vaani | Dhwani | Awaaz",
+            "trackUri": "spotify:track:6uHA9dxVRLN1SrA3PFnK0c"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Main Insaan",
+            "artistName": "Shirish Prakash Singh",
+            "albumName": "Vaani | Dhwani | Awaaz",
+            "trackUri": "spotify:track:4MrptZFCytzyvHNUJRgDrJ"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Karma",
+            "artistName": "Shirish Prakash Singh",
+            "albumName": "Vaani | Dhwani | Awaaz",
+            "trackUri": "spotify:track:7J5kWeAwtCYvANPzwrtJoi"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Raatein",
+            "artistName": "Shirish Prakash Singh",
+            "albumName": "Vaani | Dhwani | Awaaz",
+            "trackUri": "spotify:track:2Bf3IJBaGgUROIsxGrA8UL"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Ruk Ab Chal",
+            "artistName": "Shirish Prakash Singh",
+            "albumName": "Vaani | Dhwani | Awaaz",
+            "trackUri": "spotify:track:7nZiCy0NRc2p232COr12fH"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Le Chal Mujhe - Live",
+            "artistName": "Euphony Official",
+            "albumName": "Le Chal Mujhe",
+            "trackUri": "spotify:track:7CXjcNJ32TaKpbw60yEgRC"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Kaisey",
+            "artistName": "Ady Manral",
+            "albumName": "Kaisey",
+            "trackUri": "spotify:track:5M6M4MTKgcopZziM8px5x4"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Bhaag",
+            "artistName": "Bawari Basanti",
+            "albumName": "Bhaag",
+            "trackUri": "spotify:track:6xtI9VHcn3We6xLqReDzc2"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Khabar Mein Raho",
+            "artistName": "Bawari Basanti",
+            "albumName": "Khabar Mein Raho",
+            "trackUri": "spotify:track:6FQ0kwnlhCHVLDHebz9LMj"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Kya Bolein",
+            "artistName": "Bawari Basanti",
+            "albumName": "Kya Bolein",
+            "trackUri": "spotify:track:1y70WO9Cg5Hys3tj9ehvls"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Rahiman Dhaga - Acoustic",
+            "artistName": "Bawari Basanti",
+            "albumName": "Rahiman Dhaga",
+            "trackUri": "spotify:track:4sQmM7qZv9EJk9f05GxQqc"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Chemistry",
+            "artistName": "Lost Stories",
+            "albumName": "Music For The # Generation",
+            "trackUri": "spotify:track:79yCicUXsMibJTNY0y5CXE"
+          },
+          "episode": null,
+          "localTrack": null
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "French pop",
+      "lastModifiedDate": "2021-02-19",
+      "items": [
+        {
+          "track": {
+            "trackName": "Amour plastique",
+            "artistName": "Videoclub",
+            "albumName": "Amour plastique",
+            "trackUri": "spotify:track:7M3HuQRRAm1QD4kftmq0bb"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "En nuit",
+            "artistName": "Videoclub",
+            "albumName": "En nuit",
+            "trackUri": "spotify:track:1Rvl9e8bRf4EVEyZNg1YHW"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "What Are You so Afraid Of",
+            "artistName": "Videoclub",
+            "albumName": "What Are You so Afraid Of",
+            "trackUri": "spotify:track:5NwyQFaZbL6w8SaFcPFDn8"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Roi",
+            "artistName": "Videoclub",
+            "albumName": "Roi",
+            "trackUri": "spotify:track:28zSA1yhGkpqT6SX5GROKn"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Too much",
+            "artistName": "Lou Doillon",
+            "albumName": "Soliloquy",
+            "trackUri": "spotify:track:7EsezxxlX1rNmdFEG4l4AN"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Back To One",
+            "artistName": "Cocoon",
+            "albumName": "Back To One",
+            "trackUri": "spotify:track:0zMTiHXme9k2newg3Ir8Md"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Addicted To Joy",
+            "artistName": "Naive New Beaters",
+            "albumName": "Addicted To Joy",
+            "trackUri": "spotify:track:6GeL3xpwOQ3wJu5qLMQJQc"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Back To One (feat Clou)",
+            "artistName": "Cocoon",
+            "albumName": "Wood Fire",
+            "trackUri": "spotify:track:2StLQ6zfshGH5lw6BcCfqu"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Ah bah d'accord",
+            "artistName": "Juniore",
+            "albumName": "Ah bah d'accord",
+            "trackUri": "spotify:track:563Eth8vD7v0W0eytAjRI6"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "White Lies",
+            "artistName": "S+C+A+R+R",
+            "albumName": "White Lies / What Do You Need?",
+            "trackUri": "spotify:track:45lac7ljUIj66aAOVjRCwe"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "SMS",
+            "artistName": "Videoclub",
+            "albumName": "Euphories",
+            "trackUri": "spotify:track:5XbjOF5ZS68w1PhLiF7Iku"
+          },
+          "episode": null,
+          "localTrack": null
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    }
+  ]
+}
